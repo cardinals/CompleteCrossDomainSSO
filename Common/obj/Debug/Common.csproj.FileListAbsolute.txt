@@ -1,0 +1,10 @@
+F:\个人信息\Demo\SSODemo\Common\bin\Debug\Common.dll
+F:\个人信息\Demo\SSODemo\Common\bin\Debug\Common.pdb
+F:\个人信息\Demo\SSODemo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\个人信息\Demo\SSODemo\Common\obj\Debug\Common.dll
+F:\个人信息\Demo\SSODemo\Common\obj\Debug\Common.pdb
+F:\个人信息\Demo\CompleteCrossDomainSSO\Common\bin\Debug\Common.dll
+F:\个人信息\Demo\CompleteCrossDomainSSO\Common\bin\Debug\Common.pdb
+F:\个人信息\Demo\CompleteCrossDomainSSO\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\个人信息\Demo\CompleteCrossDomainSSO\Common\obj\Debug\Common.dll
+F:\个人信息\Demo\CompleteCrossDomainSSO\Common\obj\Debug\Common.pdb

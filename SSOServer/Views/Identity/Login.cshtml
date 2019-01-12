@@ -1,0 +1,13 @@
+﻿
+@{
+                /**/
+
+                ViewBag.Title = "Login";
+}
+<h2>用户认证中心-用户登录</h2>
+<form id="form1" name="form1" method="post" action="@Url.Action("Login","Identity")">
+    @Html.Hidden("ReturnURL", Request["RetrunURL"])   
+    <input type="text" name="UserName" value="" /><br />
+    <input type="password" name="Password" value="" /><br />
+    <input type="submit" name="btnSubmit" value="提交" />
+</form>

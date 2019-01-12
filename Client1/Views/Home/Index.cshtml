@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<h2>客户端1的资源</h2>
+
+<input type="button" id="loginOut" value="注销"/>
+<script>
+    $("#loginOut").click(function () {
+        $.ajax({
+            type: "GET",
+            url: "/Login/LoginOut",
+            data: "",
+            dataType: "json",
+            success: function (data) {
+                
+            }
+        });
+    });
+</script>
+
